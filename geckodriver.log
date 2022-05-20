@@ -1,0 +1,16 @@
+1653013371152	geckodriver	INFO	Listening on 127.0.0.1:50838
+1653013374754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile6yKiDa"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653013379047	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile6yKiDa\\search.json.mozlz4", (void 0)))
+1653013385719	Marionette	INFO	Listening on port 50850
+1653013386158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1653013468608	Marionette	INFO	Stopped listening on port 50850
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
