@@ -14,3 +14,220 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 1653013468608	Marionette	INFO	Stopped listening on port 50850
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653354302624	geckodriver	INFO	Listening on 127.0.0.1:63529
+1653354305678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileqXkexP"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653354307847	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileqXkexP\\search.json.mozlz4", (void 0)))
+1653354314496	Marionette	INFO	Listening on port 63542
+1653354314608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1653354888264	Marionette	INFO	Stopped listening on port 63542
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=17a1892d900","state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3573,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+[Parent 6620, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+[GFX1]: Attempting to post to an invalid Compositor Thread
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kevyn\AppData\Local\Temp\rust_mozprofileqXkexP\protections.sqlite
+gistry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ofertasmateus.com"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+JavaScript error: https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js, line 6: TypeError: n is null
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653355674495	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356191903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1653356211106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356322264	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356333245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-24T01:38:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-24T01:38:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-24T01:39:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-24T01:39:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1653356342058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 12556, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+Exiting due to channel error.
+Exiting due to channel error.
+1653356852044	geckodriver	INFO	Listening on 127.0.0.1:64827
+1653356855165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileXkGhFG"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356856792	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileXkGhFG\\search.json.mozlz4", (void 0)))
+1653356861833	Marionette	INFO	Listening on port 64836
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356862362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653356909229	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653357170584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1653357458253	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653357468505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1653357488855	Marionette	INFO	Stopped listening on port 64836
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653357925842	geckodriver	INFO	Listening on 127.0.0.1:65379
+1653357928937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileCP7zt1"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1653357930728	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileCP7zt1\\search.json.mozlz4", (void 0)))
+1653357936342	Marionette	INFO	Listening on port 65389
+1653357936496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
